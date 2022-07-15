@@ -35,7 +35,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ###  To solve useRoute problem
 
-past in .eslintrc.json file
+paste in .eslintrc.json file
 
 "plugins": [
     // ...
